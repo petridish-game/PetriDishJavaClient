@@ -19,3 +19,20 @@ html:not([lang="ru"]) .ru{display:none}
 .lang-switch button:hover{color:#e8f6ff}
 .lang-switch button.active{background:linear-gradient(135deg,#35e1ee,#049fe8);color:#05203e}
 @media(max-width:700px){.lang-switch{top:12px;right:12px}.lang-switch button{min-width:38px;padding:6px 10px;font-size:13px}}
+
+/* Real platform logos instead of text glyphs: inline SVG so they take the
+   surrounding colour. The download card no longer hides anything behind a
+   disclosure triangle - "other versions" is a plain row of links. */
+.platform-icon{display:grid;place-items:center;width:48px;flex:0 0 48px;color:#cfe9ff}
+.platform-icon svg{width:30px;height:30px;display:block}
+
+.other{margin-top:18px;padding:18px 22px 20px;border:1px solid #12619a;border-radius:18px;background:rgba(5,36,67,.65)}
+.other-head{margin-bottom:14px;font-size:19px;color:#e8f6ff}
+.other-links{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;padding:0}
+.other-links a{display:flex;align-items:center;gap:12px;padding:13px 14px;border:1px solid #0e527f;border-radius:14px;background:#06294b;color:#a7dfff;text-decoration:none}
+.other-links a:hover{border-color:#1bcaff;background:#07325b}
+.other-links svg{width:22px;height:22px;flex:0 0 22px;color:#7fc9f2}
+.other-links strong{display:block;font-size:15px;color:#e8f6ff;font-weight:650}
+.other-links small{display:block;margin-top:3px;font-size:13px;color:#83b8df}
+@media(max-width:900px){.other-links{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.other-links{grid-template-columns:1fr}}
