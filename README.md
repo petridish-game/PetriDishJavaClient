@@ -71,6 +71,9 @@ are repointed with every release.
 
 This repository hosts release binaries only — the game source code is not published here.
 
+**Need help?** [VK](https://vk.com/im?sel=-97324915) · [Telegram](https://t.me/petridish_support) ·
+[Discord](https://discord.gg/UZpFrnZpm4) (the «Поддержка» channel) · <Admin@petridish.pw>
+
 ## Русский
 
 Windows-сборка работает без установки — скачать и запустить. На Android и iOS версии из
@@ -90,6 +93,9 @@ Windows-сборка работает без установки — скачат
 перенацеливаются на каждый новый релиз.
 
 Здесь лежат только готовые сборки — исходный код игры не публикуется.
+
+**Нужна помощь?** [ВКонтакте](https://vk.com/im?sel=-97324915) · [Телеграм](https://t.me/petridish_support) ·
+[Дискорд](https://discord.gg/UZpFrnZpm4) (канал «Поддержка») · <Admin@petridish.pw>
 
 <div align="center">
 <br>
