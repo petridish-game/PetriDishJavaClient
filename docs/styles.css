@@ -36,3 +36,13 @@ html:not([lang="ru"]) .ru{display:none}
 .other-links small{display:block;margin-top:3px;font-size:13px;color:#83b8df}
 @media(max-width:900px){.other-links{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.other-links{grid-template-columns:1fr}}
+
+/* Support contacts - same tile look as the "other versions" row. */
+.support{max-width:750px;margin:56px auto 0;text-align:center}
+.contact-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:13px;margin-top:25px;padding:20px;border:1px solid #0c4b79;border-radius:22px;background:rgba(5,31,58,.72)}
+.contact-grid a{display:flex;align-items:center;gap:14px;padding:16px;border:1px solid #0e527f;border-radius:14px;background:#06294b;color:#a7dfff;text-decoration:none;text-align:left}
+.contact-grid a:hover{border-color:#1bcaff;background:#07325b}
+.contact-grid svg{flex:0 0 22px;color:#7fc9f2}
+.contact-grid strong{display:block;font-size:15px;color:#e8f6ff;font-weight:650}
+.contact-grid small{display:block;margin-top:3px;font-size:13px;color:#83b8df}
+@media(max-width:560px){.contact-grid{grid-template-columns:1fr}.support{margin:40px 20px 0}}
