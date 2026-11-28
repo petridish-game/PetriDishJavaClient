@@ -14,8 +14,8 @@
 Choose your platform · Выбери свою платформу
 
 [![Windows](https://img.shields.io/badge/Windows-v5.1.7-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/download/v5.1.7/PetriDishJ517.exe)
-[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/download/v5.1.7/PetriDish-5.1.7-arm64.dmg)
-[![macOS Intel](https://img.shields.io/badge/macOS-Intel-4A4A4A?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/download/v5.1.7/PetriDish-5.1.7-x64.dmg)
+[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/download/v5.1.6/PetriDish-5.1.6-arm64.dmg)
+[![macOS Intel](https://img.shields.io/badge/macOS-Intel-4A4A4A?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/download/v5.1.6/PetriDish-5.1.6-x64.dmg)
 [![Android](https://img.shields.io/badge/Android-5.1%2B%20.apk-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/petridish-game/PetriDishJavaClient/releases/latest/download/PetriDish-android-legacy-version.apk)
 
 </div>
@@ -60,8 +60,8 @@ The `.jar` runs anywhere Java is installed.
 | File | What it is |
 | --- | --- |
 | `PetriDishJ517.exe` | Windows, self-contained, no installer |
-| `PetriDish-5.1.7-arm64.dmg` | macOS on Apple Silicon (M1 and newer) |
-| `PetriDish-5.1.7-x64.dmg` | macOS on Intel |
+| `PetriDish-5.1.6-arm64.dmg` | macOS on Apple Silicon (M1 and newer) |
+| `PetriDish-5.1.6-x64.dmg` | macOS on Intel |
 | `PetriDish-desktop-min.jar` | any system with Java installed |
 | `PetriDish-android-legacy-version.apk` | Android 5.1+, installed by hand |
 
@@ -83,8 +83,8 @@ Windows-сборка работает без установки — скачат
 | Файл | Что это |
 | --- | --- |
 | `PetriDishJ517.exe` | Windows, всё внутри, установка не нужна |
-| `PetriDish-5.1.7-arm64.dmg` | macOS на Apple Silicon (M1 и новее) |
-| `PetriDish-5.1.7-x64.dmg` | macOS на Intel |
+| `PetriDish-5.1.6-arm64.dmg` | macOS на Apple Silicon (M1 и новее) |
+| `PetriDish-5.1.6-x64.dmg` | macOS на Intel |
 | `PetriDish-desktop-min.jar` | любая система, где установлена Java |
 | `PetriDish-android-legacy-version.apk` | Android 5.1+, установка вручную |
 
